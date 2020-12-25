@@ -63,3 +63,16 @@
     font-family: 'DejaVu Sans Mono';
     margin-left: 6%;
 }
+
+#footer{
+  padding-top: 20px;
+  margin-top: 200px;
+  background-color: #f5eded;
+  width: auto;
+  height: 200px;
+}
+
+.saske{
+  margin-left: 40px;
+  font-family: 'DejaVu Sans Mono';
+}
